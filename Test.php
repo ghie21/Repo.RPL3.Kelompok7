@@ -7,6 +7,8 @@
 <?php
 
 		echo "<center>10112250 - Egi Cahyo P</center>";
+		echo "<center>10112266 - A.Muazirudin</center>";
+		echo "<center>HBD</center>";
 	
 ?>
 
